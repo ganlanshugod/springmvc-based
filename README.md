@@ -1,3 +1,3 @@
 # springmvc-based
-这是一个讲述springmvc中使用xml配置和javaConfig配置不同的内容
+我还有新增的内容呢
 这里增加以下我定义的内容，然后看看更新
